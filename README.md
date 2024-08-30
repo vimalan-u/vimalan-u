@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio [Link](https://vimalan-u.github.io/portfolio/)
 
-- Inerests **Full Stack Development, Computer Vision, Deep Learning.**
+- 🚀 Interests **Full Stack Development, Computer Vision, Deep Learning.**
 
 - 📫 How to reach me **vimalan.2004@gmail.com**
 
