@@ -1,13 +1,13 @@
 <h1 align="center">Hello all, I'm Vimalan U</h1>
 <h3 align="center">ML Engineer | Software Developer</h3>
 
-- 👨‍💻 All of my projects are available at [](https://vimalan-u.github.io/portfolio/)
+- 👨‍💻 My portfolio [Link](https://vimalan-u.github.io/portfolio/)
 
-- Inerests **Web Development, Computer Vision, Deep Learning.**
+- Inerests **Full Stack Development, Computer Vision, Deep Learning.**
 
 - 📫 How to reach me **vimalan.2004@gmail.com**
 
-- 📄 Here is my curriculum vitae [](https://drive.google.com/file/d/18GybdfMZzkslwwIzmOZ6y7rMW0wUF_gL/view?usp=sharing)
+- 📄 Here is my curriculum vitae [Link](https://drive.google.com/file/d/18GybdfMZzkslwwIzmOZ6y7rMW0wUF_gL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
